@@ -1,1 +1,10 @@
 # Codechef
+
+This repository contains solutions to different levels of problems 
+
+
+[EASY :](https://github.com/Utathyaworks/Leetcode/tree/main/EASY)
+
+1. [Id and Ship ](https://www.codechef.com/problems/FSQRT)
+2. [Finding Square Roots](https://www.codechef.com/problems/FLOW010)
+3. [The Lead Game ](https://www.codechef.com/problems/TLG)
